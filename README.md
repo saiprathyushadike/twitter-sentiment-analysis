@@ -1,9 +1,9 @@
 # twitter_sentiment_analysis
-I applied sentiment analysis on twitter data using texthero and textblob and used xgb as our base regressor with bagging in pipeline with minmax scaler and passes pipeline through multi output regressor to obtain the given rmse score of 16.7 which was ranked 6th in datadash competition of fischer jordan model development round.
+I applied sentiment analysis on twitter data using texthero and textblob and used xgb as our base regressor with bagging in pipeline with minmax scaler and passes pipeline through multi output regressor to obtain the given rmse score of 16.49 which was ranked 6th in datadash competition of fischer jordan model development round.
 
 # PROBLEM STATEMENT:
 
- 
+ link to competition : https://dphi.tech/challenges/datadash-2021model-development-round/171/leaderboard/private/
 
 Twitter text data has always proved to be a crucial information source for sentiment analysis. Companies use this text data for various operational decisions and analysis such as predicting social media impact, analysing customer reviews and automating feedback. One such case is the analysis of tweet data to determine the social media presence and following.
 
