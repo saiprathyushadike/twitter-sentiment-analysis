@@ -50,4 +50,6 @@ Data Description:
 # Note:
 Please avoid using the company_name and the date as a feature for training the model as it won't be provided in the test dataset.
 
+# final leaderboard :
+
 ![fucked_up](https://user-images.githubusercontent.com/73367240/144533155-a8a8a6ae-db3c-4049-b4ea-cfb82c62c370.PNG)
