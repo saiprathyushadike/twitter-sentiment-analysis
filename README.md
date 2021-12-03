@@ -46,3 +46,6 @@ Data Description:
 | 12 | 	rank on the following day (dpv1) | 	The rank of the company for the next day from the given date. ( Dependent Variable - 1 ) | 
 | 13 | 	rank 2 days later (dpv2)	 | The rank of the company 2 days later from the given date. (Dependent Variable - 2) | 
 | 14	| rank 3 days later (dpv3)	| The rank of the company 3 days later from the given date. (Dependent Variable - 3) | 
+
+# Note:
+Please avoid using the company_name and the date as a feature for training the model as it won't be provided in the test dataset.
