@@ -30,74 +30,70 @@ Data Description:
 
  
 
-| Sr No.
+| Sr No. | Column Name | Description |
+| --- | --- | --- |
 
-| Column Name
+| 1 
 
-| Description |
-| --- | --- |
-
-| 1 |
-
-| name |
+| name 
 
 | It consists of company label for the top 93 companies | 
 
- | 2 | 
+ | 2 
 
- | date | 
+ | date 
 
  | Date on which the tweets from the company were created. | 
 
- | 3 | 
+ | 3 
 
- | tweets | 
+ | tweets 
 
  | It is a stringified list of tweet data tweeted by the company. (consisting of the tweet text, tweet created_at, tweet likes and the tweet retweets) | 
 
- | 4 | 
+ | 4 
 
- | count_tweets | 
+ | count_tweets 
 
  | Number of tweets tweeted by that company on a particular day. | 
 
-5 | 
+| 5 | 
 
 avg_tweet_likes | 
 
 Average tweet likes for all tweets on a particular day. | 
 
-6 | 
+| 6 | 
 
 avg_tweet_retweets | 
 
 Average tweet retweets for all tweets on a particular day. | 
 
-7 | 
+| 7 | 
 
 chatter | 
 
 It is a stringified list of tweet data tweeted about the company by any other user. (consisting of the tweet text, tweet created_at, tweet likes and the tweet retweets) | 
 
-8 | 
+| 8 | 
 
 followers | 
 
 Follower count of the company on a particular day. | 
 
-9 | 
+| 9 | 
 
 following | 
 
 Following count of the company on a particular day. | 
 
-10 | 
+| 10 | 
 
 change | 
 
 absolute change in followers = {f(n) − f(n − 1)}/f(n − 1), where f(n) is the number of followers on nth day | 
 
-11 | 
+| 11 | 
 
 rank | 
 
