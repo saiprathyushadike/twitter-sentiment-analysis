@@ -50,7 +50,4 @@ Data Description:
 # Note:
 Please avoid using the company_name and the date as a feature for training the model as it won't be provided in the test dataset.
 
-# notebook :
-
-[twitter_data_analysis_adike_sai_prathyush.pdf](https://github.com/saiprathyushadike/twitter_sentiment_analysis/files/7646426/twitter_data_analysis_adike_sai_prathyush.pdf)
 
