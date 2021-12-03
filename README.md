@@ -6,6 +6,8 @@ I applied sentiment analysis on twitter data using texthero and textblob and use
 # PROBLEM STATEMENT:
 
  link to competition : https://dphi.tech/challenges/datadash-2021model-development-round/171/overview/about
+![unnamed](https://user-images.githubusercontent.com/73367240/144538296-e9ebde7a-7799-43f7-ae1b-c331a7f3849b.jpg)
+![download](https://user-images.githubusercontent.com/73367240/144538346-8e4b12b7-a6f8-4ef1-bc2d-7f50ba21ca50.png)
 
 Twitter text data has always proved to be a crucial information source for sentiment analysis. Companies use this text data for various operational decisions and analysis such as predicting social media impact, analysing customer reviews and automating feedback. One such case is the analysis of tweet data to determine the social media presence and following.
 
